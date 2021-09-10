@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "vite": "^2.5.6"
+  },
+  "name": "harry-potter-api",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saschacollinet/harry-potter-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saschacollinet/harry-potter-api/issues"
+  },
+  "homepage": "https://github.com/saschacollinet/harry-potter-api#readme",
+  "description": ""
+}
